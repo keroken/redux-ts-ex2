@@ -1,4 +1,3 @@
-import React from 'react';
 import { ActionType } from '../action-types';
 import { Action } from '../actions';
 
